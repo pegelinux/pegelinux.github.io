@@ -3,7 +3,7 @@ layout   : page
 title    : Tentang
 share    : true
 comments : false
-permalink: /tentang
+permalink: /tentang/
 ---
 
 ### Latar Belakang
