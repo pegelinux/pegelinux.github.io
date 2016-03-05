@@ -15,7 +15,7 @@ logo:             images/logo-pegel.png # logo visible in the topbar
 #   To create sub categories. add a submenu item
 # See the example
 menu:
-  - title: 'Home'
+  - title: 'Beranda'
     url: '/'
   - title: 'Fork'
     url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
@@ -48,7 +48,7 @@ owner:
 
 # Twitter account associated with the site if different from owner/author twitter account.
 # Used in Twitter cards.
-twitter: 
+twitter: racikode
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:

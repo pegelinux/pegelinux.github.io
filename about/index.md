@@ -1,38 +1,28 @@
 ---
 layout: page
-title: About
+title: Tentang
 share: true
+permalink: /tentang/
 ---
 
-# Neo-HPSTR Jekyll Theme
+###Latar Belakang
+Salah satu kekuatan terbesar dari pengguna GNU/Linux ada pada bentuk komunitasnya, maka tak heran sampai sekarang GNU/Linux tetap eksis. Dengan adanya komunitas GNU/Linux ini menjadikan sebuah wadah tukar pikiran, pembelajaran, kritik serta masukan dari para penggunanya. Ketika ada masalah sesegera komunitas bertindak. Maka itulah kekuatan komunitas[^1].
 
-Neo-HPSTR Jekyll is a responsive and modern blog template.
+###Sejarah
 
-# Live Demo
+PegeLinux (baca: Pegel Linux) adalah komunitas para pengiat GNU/Linux dalam aplikasi perpesanan [Telegram](https://telegram.org). Didirikan oleh [Sahri Riza Umami](http://rizaumami.github.io/) pada tanggal 30 Januari 2015 dalam utasan (_thread_) di forum Kaskus bernama [PegeLinux: Telegram users group for those who Pegel with Linux](http://kask.us/hVsB8), yang mana bertujuan sebagai pusat belajar daring seputar GNU/Linux dan FLOSS (_Free/Libre Open Source Sofware_), juga sebagai sarana perkenalan dan berbagi pengalaman sesama pengguna GNU/Linux[^2].
 
-You can see it running [here](http://blog.rhesoft.com/) and [here](http://aronbordin.com/neo-hpstr-jekyll-theme/).
+###Mengapa PegeLinux Berada di Telegram?
 
+Telegram merupakan aplikasi sumber terbuka (_opensource_) yang memiliki kelebihan tersendiri yakni:
 
-## What Neo-HPSTR brings to the table:
+* _Chat_ di Telegram berada dalam _cloud_ dan terenkrip.<br/>
+Anda tidak perlu khawatir dengan kehilangan percakapan Anda di Telegram karena semua percakapan disimpan dalam _cloud_, dan juga percakapan kita dienkrip sebelum disimpan dalam dalam _cloud_ di Telegram.
+* Telegram bisa diakses diberbagai peranti (_device_).<br/>
+Jadi Anda tidak perlu khawatir untuk bisa menggunakan Telegram karena Telegram bisa digunakan oleh berbagai peranti seperti gawai (_gadget_), desktop, bahkan juga bisa diakses langsung lewat _web_.
+* Telegram memiliki _Bot_<br/>
+Dengan adanya fungsi Bot ini bisa menggantikan tugas-tugas dari sang Admin.
 
-* Modern design.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet topbar animated menu with support for drop-downs.
-* Optional [Disqus](http://disqus.com) comments and social sharing links.
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page](http://mmistakes.github.io/hpstr-jekyll-theme/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/hpstr-jekyll-theme/code-highlighting-post/) to make your code examples look snazzy
-* Author panel, with social links
-* Read more tag support(similar with Wordpress ).
-
-![Preview](http://aronbordin.com/images/neo-hpstr-jekyll-theme-preview.png)
-
-
----
-
-## Getting Started
-
-Neo-HPSTR takes advantage of Sass and data files to make customizing easier. These features require Jekyll 2.x and will not work with older versions of Jekyll.
-
-To learn how to install and use this theme check out the [Setup Guid](http://aronbordin.com/neo-hpstr-jekyll-theme//theme-setup/) for more information.
+###Referensi
+[^1]: [situsali.com](https://situsali.com/pegelinux-komunitas-linux-indonesia-di-telegram/)
+[^2]: [wiki.racikode.org](http://wiki.racikode.org/pegelinux)
