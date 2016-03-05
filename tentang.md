@@ -1,7 +1,9 @@
 ---
-layout: page
-title: Tentang
-share: true
+layout   : page
+title    : Tentang
+share    : true
+comments : false
+permalink: /tentang
 ---
 
 ### Latar Belakang
