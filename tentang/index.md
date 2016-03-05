@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tentang
-permalink: /tentang/
+share: true
 ---
 
 ###Latar Belakang

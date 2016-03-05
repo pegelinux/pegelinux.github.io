@@ -1,5 +1,5 @@
 title:            PegeLinux
-description:      Describe your website here.
+description:      Komunitas pengiat GNU/Linux dan FLOSS.
 # put your disqus here
 disqus_shortname: pegelinux
 reading_time:     true # if true, shows the estimated reading time for a post
@@ -17,10 +17,6 @@ logo:             images/logo-pegel.png # logo visible in the topbar
 menu:
   - title: 'Beranda'
     url: '/'
-  - title: 'Fork'
-    url: 'http://github.com/aron-bordin/neo-hpstr-jekyll-theme'
-  - title: 'Install'
-    url: '/theme-setup/'
   - title: 'Tags'
     url: '/tags'
   - title: 'Categories'
@@ -33,7 +29,9 @@ menu:
         url: '/intro/code-highlighting-post/'
       - title: 'Sample Post'
         url: '/intro/sample-post/'
-
+  - title: 'Tentang'
+    url: '/tentang'
+    
 # Owner/author information
 owner:
   name:           Komunitas PegeLinux
