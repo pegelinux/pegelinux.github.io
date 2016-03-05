@@ -5,6 +5,7 @@ share: true
 ---
 
 ###Latar Belakang
+
 Salah satu kekuatan terbesar dari pengguna GNU/Linux ada pada bentuk komunitasnya, maka tak heran sampai sekarang GNU/Linux tetap eksis. Dengan adanya komunitas GNU/Linux ini menjadikan sebuah wadah tukar pikiran, pembelajaran, kritik serta masukan dari para penggunanya. Ketika ada masalah sesegera komunitas bertindak. Maka itulah kekuatan komunitas[^1].
 
 ###Sejarah
@@ -23,5 +24,6 @@ Jadi Anda tidak perlu khawatir untuk bisa menggunakan Telegram karena Telegram b
 Dengan adanya fungsi Bot ini bisa menggantikan tugas-tugas dari sang Admin.
 
 ###Referensi
+
 [^1]: [situsali.com](https://situsali.com/pegelinux-komunitas-linux-indonesia-di-telegram/)
 [^2]: [wiki.racikode.org](http://wiki.racikode.org/pegelinux)
