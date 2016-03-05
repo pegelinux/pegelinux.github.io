@@ -36,8 +36,8 @@ menu:
 owner:
   name:           Komunitas PegeLinux
   site:           http://pegelinux.github.io
-  avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  avatar:         images/avatar-pegel.jpg
+  bio:            "Komunitas pengiat GNU/Linux dan FLOSS.."
   email:          pegelinux.mail@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter:  # if no twitter in this config, the twitter follow button will be removed
