@@ -4,15 +4,15 @@ title: Tentang
 share: true
 ---
 
-###Latar Belakang
+### Latar Belakang
 
 Salah satu kekuatan terbesar dari pengguna GNU/Linux ada pada bentuk komunitasnya, maka tak heran sampai sekarang GNU/Linux tetap eksis. Dengan adanya komunitas GNU/Linux ini menjadikan sebuah wadah tukar pikiran, pembelajaran, kritik serta masukan dari para penggunanya. Ketika ada masalah sesegera komunitas bertindak. Maka itulah kekuatan komunitas[^1].
 
-###Sejarah
+### Sejarah
 
 PegeLinux (baca: Pegel Linux) adalah komunitas para pengiat GNU/Linux dalam aplikasi perpesanan [Telegram](https://telegram.org). Didirikan oleh [Sahri Riza Umami](http://rizaumami.github.io/) pada tanggal 30 Januari 2015 dalam utasan (_thread_) di forum Kaskus bernama [PegeLinux: Telegram users group for those who Pegel with Linux](http://kask.us/hVsB8), yang mana bertujuan sebagai pusat belajar daring seputar GNU/Linux dan FLOSS (_Free/Libre Open Source Sofware_), juga sebagai sarana perkenalan dan berbagi pengalaman sesama pengguna GNU/Linux[^2].
 
-###Mengapa PegeLinux Berada di Telegram?
+### Mengapa PegeLinux Berada di Telegram?
 
 Telegram merupakan aplikasi sumber terbuka (_opensource_) yang memiliki kelebihan tersendiri yakni:
 
@@ -23,7 +23,7 @@ Jadi Anda tidak perlu khawatir untuk bisa menggunakan Telegram karena Telegram b
 * Telegram memiliki _Bot_<br/>
 Dengan adanya fungsi Bot ini bisa menggantikan tugas-tugas dari sang Admin.
 
-###Referensi
+### Referensi
 
 [^1]: [situsali.com](https://situsali.com/pegelinux-komunitas-linux-indonesia-di-telegram/)
 [^2]: [wiki.racikode.org](http://wiki.racikode.org/pegelinux)
