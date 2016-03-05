@@ -21,5 +21,5 @@ Dengan adanya fungsi Bot ini bisa menggantikan tugas-tugas dari sang Admin.
 
 ### Referensi
 
-[^1]: [situsali.com](https://situsali.com/pegelinux-komunitas-linux-indonesia-di-telegram/)
-[^2]: [wiki.racikode.org](http://wiki.racikode.org/pegelinux)
+1. [situsali.com](https://situsali.com/pegelinux-komunitas-linux-indonesia-di-telegram/)
+2. [wiki.racikode.org](http://wiki.racikode.org/pegelinux)
