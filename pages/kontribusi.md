@@ -10,7 +10,7 @@ Salah satu kekuatan terbesar dari pengguna GNU/Linux ada pada bentuk komunitasny
 Kontribusi dapat diberikan dalam bentuk apapun, salah satu nya adalah dengan memberikan artikel untuk ditampilkan pada situs ini. Artikel yang diberikan harap sesuai dengan tema situs ini, yaitu tentang GNU/Linux, Perkembangan IT/Teknologi, dan hal-hal lain yang berhubungan dengan komputer dengan tidak menyinggung SARA dan memperhatikan norma-norma yang berlaku di Indonesia. Untuk yang familiar dengan Git, berikut ini merupakan langkah-langkah yang dapat dilakukan untuk dapat memberikan kontribusi berupa artikel:
 
 ### 1. _Fork_ repositori pegelinux
-_Fork_ repositori pegelinux pada [https://github.com/pegelinux/pegelinux.github.io](https://github.com/pegelinux/pegelinux.github.io).
+_Fork_ repositori pegelinux pada <https://github.com/pegelinux/pegelinux.github.io/>
 
 ### 2. Tambahkan artikel
 Buat dokumen baru yang berisi artikel pada folder _drafts dengan format tanggal-url.md untuk format markdown
@@ -47,4 +47,4 @@ author:
 
 ### 4. Buat _Pull Request_
 Lakukan _pull request_ untuk artikel yang telah dibuat, untuk caranya dapat dilihat
-pada [https://help.github.com/articles/using-pull-requests/](https://help.github.com/articles/using-pull-requests/)
+pada <https://help.github.com/articles/using-pull-requests/>
