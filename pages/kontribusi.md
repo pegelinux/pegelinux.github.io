@@ -7,7 +7,7 @@ permalink: /kontribusi/
 ---
 
 Salah satu kekuatan terbesar dari pengguna GNU/Linux ada pada bentuk komunitasnya, maka tak heran sampai sekarang GNU/Linux tetap eksis. Untuk menjaga agar komunitas ini tetap eksis, kami membuka peluang sebesar-besarnya kepada siapa saja yang ingin berkontribusi pada komunitas ini.
-Kontribusi dapat diberikan dalam bentuk apapun, salah satu nya adalah dengan memberikan artikel untuk ditampilkan pada situs ini. Artikel yang diberikan harap sesuai dengan tema situs ini, yaitu tentang GNU/Linux, Perkembangan IT/Teknologi, dan hal-hal lain yang berhubungan dengan komputer dengan tidak menyinggung SARA dan memperhatikan norma-norma yang berlaku di Indonesia. Untuk yang familiar dengan Git, berikut ini merupakan langkah-langkah yang dapay dilakukan untuk dapat memberikan kontribusi berupa artikel:
+Kontribusi dapat diberikan dalam bentuk apapun, salah satu nya adalah dengan memberikan artikel untuk ditampilkan pada situs ini. Artikel yang diberikan harap sesuai dengan tema situs ini, yaitu tentang GNU/Linux, Perkembangan IT/Teknologi, dan hal-hal lain yang berhubungan dengan komputer dengan tidak menyinggung SARA dan memperhatikan norma-norma yang berlaku di Indonesia. Untuk yang familiar dengan Git, berikut ini merupakan langkah-langkah yang dapat dilakukan untuk dapat memberikan kontribusi berupa artikel:
 
 ### 1. _Fork_ repositori pegelinux
 _Fork_ repositori pegelinux pada [https://github.com/pegelinux/pegelinux.github.io](https://github.com/pegelinux/pegelinux.github.io).
