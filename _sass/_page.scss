@@ -19,7 +19,7 @@ body {
 	background-color: $header-color;
 }
 .entry-content {
-	@include font-size(16);
+	@include font-size(18);
 	// Dotted line underlines for links
 	p > a,
 	li > a {
@@ -150,9 +150,6 @@ header .entry-meta {
 			max-width: 800px;
 			margin: 50px auto 30px auto;
 			padding: 50px 80px;
-			> p:first-child {
-				@include font-size(20);
-			}
 		}
 	}
 	#disqus_thread {

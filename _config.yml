@@ -17,18 +17,11 @@ logo:             images/logo-pegel.png # logo visible in the topbar
 menu:
   - title: 'Beranda'
     url: '/'
-  - title: 'Tags'
-    url: '/tags'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
-    url: '#'
-    submenu:
-      - title: 'Code Highlighter'
-        url: '/intro/code-highlighting-post/'
-      - title: 'Sample Post'
-        url: '/intro/sample-post/'
+  - title: 'Kontribusi'
+    url: '/kontribusi'
   - title: 'Tentang'
     url: '/tentang'
     
@@ -36,7 +29,7 @@ menu:
 owner:
   name:           Komunitas PegeLinux
   site:           http://pegelinux.github.io
-  avatar:         images/avatar-pegel.jpg
+  avatar:         avatar-pegel.jpg
   bio:            "Komunitas pengiat GNU/Linux dan FLOSS.."
   email:          pegelinux.mail@gmail.com
   # Twitter nick for use in Twitter cards and follow button.

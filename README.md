@@ -1,4 +1,4 @@
-# pegelinux.github.io
+# Komunitas PegeLinux
 
 ### Latar Belakang
 
@@ -14,7 +14,7 @@ Telegram merupakan aplikasi sumber terbuka (_opensource_) yang memiliki kelebiha
 
 * _Chat_ di Telegram berada dalam _cloud_ dan terenkrip.<br/>
 Anda tidak perlu khawatir dengan kehilangan percakapan Anda di Telegram karena semua percakapan disimpan dalam _cloud_, dan juga percakapan kita dienkrip sebelum disimpan dalam dalam _cloud_ di Telegram.
-* Telegram bisa diakses diberbagai peranti (_device_).<br/>
+* Telegram bisa diakses di berbagai peranti (_device_).<br/>
 Jadi Anda tidak perlu khawatir untuk bisa menggunakan Telegram karena Telegram bisa digunakan oleh berbagai peranti seperti gawai (_gadget_), desktop, bahkan juga bisa diakses langsung lewat _web_.
 * Telegram memiliki _Bot_<br/>
 Dengan adanya fungsi Bot ini bisa menggantikan tugas-tugas dari sang Admin.
