@@ -40,6 +40,8 @@ author:
   email:   pegelinux.mail@gmail.com
   # Twitter penulis jika ada.
   twitter:  # if no twitter in this config, the twitter follow button will be removed
+  # Facebook penulis jika ada.
+  facebook: pegelinux
   # GitHub penulis jika ada.
   github: pegelinux
 ---
