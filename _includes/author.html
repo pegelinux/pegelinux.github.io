@@ -7,28 +7,33 @@
   </div><!-- /.read-more-header -->
   <div class="read-more-content author-info">
 
-    <h3>{{page.author.name}}</h3>
+    
     <div class="author-container">
       {% if page.author.avatar %}
       <img class="author-img" src="{{page.author.avatar}}" alt="{{page.author.name}}" />
       {% else %}
       <img class="author-img" src="{{site.url}}/images/avatars/avatar.jpg" alt="{{page.author.name}}" />
       {% endif %}
-      <div class="author-bio">{{page.author.bio}}</div>
-    </div>
-    <div class="author-share">
-      <ul class="list-inline social-buttons">
-        {% for network in page.author.social %}
-          <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
-        {% endfor %}
-      </ul>
-      {% if page.author.github %}
-        <a aria-label="Follow @{{page.author.github}} on GitHub" data-style="mega" href="https://github.com/{{page.author.github}}" class="github-button">Follow @{{page.author.github}}</a>
-      {% endif %}
-      <br>
-      {% if page.author.twitter %}
-        <a href="https://twitter.com/{{page.author.twitter}}" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @{{page.author.twitter}}</a>
-      {% endif %}
+      <div class="author-bio">
+        <h3>{{page.author.name}}</h3>
+        <p>{{page.author.bio}}</p>
+        <div class="author-share">
+          <ul class="list-inline social-buttons">
+            {% for network in page.author.social %}
+              <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
+            {% endfor %}
+          {% if page.author.github %}
+            <li><a href="https://github.com/{{page.author.github}}" target="_blank"><i class="fa fa-github fa-fw"></i></a></li>
+          {% endif %}
+          {% if page.author.twitter %}
+            <li><a href="https://twitter.com/{{page.author.twitter}}" target="_blank"><i class="fa fa-twitter fa-fw"></i></a></li>
+          {% endif %}
+          {% if page.author.facebook %}
+            <li><a href="https://twitter.com/{{page.author.facebook}}" target="_blank"><i class="fa fa-facebook fa-fw"></i></a></li>
+          {% endif %}
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
 
