@@ -26,3 +26,22 @@ sitemap: false
 @import "animations";
 @import "dl-menu";
 @import "page";
+
+table {
+    border-collapse : collapse;
+    margin-left     : auto;
+    margin-right    : auto;
+    width           : auto;
+}
+
+table thead {
+    background-color: #f8f8f8;
+}
+
+table, th, td {
+    border: 1px solid #DDD;
+}
+
+table th, table td {
+    padding: 6px 13px;
+}
