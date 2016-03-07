@@ -36,8 +36,9 @@ comments: false
     {% if post.content contains "<!-- more -->" %}
     {{ post.content | split:"<!-- more -->" | first % }}
     {% else %}
-      {{ post.content }}
+      {{ post.excerpt }}
     {% endif %}
+    <a class="btn btn-info" href="{{ site.url }}{{ post.url }}">Baca selengkapnya</a>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}

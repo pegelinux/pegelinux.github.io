@@ -38,7 +38,9 @@ Adapun caranya adalah sebagai berikut:
 <br/>
 Ini berurusan dengan tempat Anda membeli _domain_. Dalam contoh di sini saya menggunakan pengaturan _domain_ bawaan [Digital Ocean](https://m.do.co/c/734a86fa5365).<br/>
 ![alt A Record](http://ali.my.id/images/post/pegelinux-id-domain-2.png "A record")
+
 4. Jika sudah selesai bisa langsung Anda `git add CNAME`, `git commit -m "menambahkan CNAME"` dan `git push -u origin master`.
+
 5. Jika sudah selesai cek di _setting_ repositori Anda. Sudah seperti gambar berikut:<br/>
 ![alt A Record](http://ali.my.id/images/post/pegelinux-id-domain-3.png "pegelinux.id")
 
